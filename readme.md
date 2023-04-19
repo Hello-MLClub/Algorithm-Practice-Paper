@@ -1,8 +1,8 @@
-#### Algorithm-Practice-in-Industry
-## 来源
+#### 介绍
+
 搜索、推荐、广告、用增等工业界实践文章收集
 
-除此以外，还有
+除此以外，还有业务不错的文章
 
 - [搜广推优质博主文章](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB%E6%96%87%E7%AB%A0.md)
 
@@ -13,9 +13,12 @@
 
 #### 微信公众号：机器学习社区
 
+一个专注于分享大模型、算法、学术论文、面试与实践的公众号，关注公众号：机器学习社区，与我们一起成长。
+
 ![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/qrcode_for_gh_20ad92029419_258.jpg)
 
 ### 知识星球
+前沿技术资讯、算法技术交流、求职内推、算法竞赛、职场面试经验交流(校招、社招、实习)等，与 10000+来自港大、北大、清华、中科院、CMU、腾讯、百度、微软等名校名企开发者互动交流~
 ![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/AI%E7%AE%97%E6%B3%95%E4%BA%A4%E6%B5%81%E5%9C%88.jpg)
 
 
