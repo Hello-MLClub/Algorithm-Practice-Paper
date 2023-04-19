@@ -1,22 +1,21 @@
-# Algorithm-Practice-in-Industry
+#### Algorithm-Practice-in-Industry
 ## 来源
 搜索、推荐、广告、用增等工业界实践文章收集
 
 除此以外，还有
 
-- [搜广推优质博主文章](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB%E6%96%87%E7%AB%A0.md)
+- [搜广推优质博主文章](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB%E6%96%87%E7%AB%A0.md)
 
-- [搜广推算法系列串讲](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B8%B2%E8%AE%B2.md)
-
+- [搜广推算法系列串讲](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B8%B2%E8%AE%B2.md)
 
 
 本文仅做资源收集，未引用具体内容，如有侵权，请联系删除。
 
-## 微信公众号：机器学习社区
+#### 微信公众号：机器学习社区
 
 ![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/qrcode_for_gh_20ad92029419_258.jpg)
 
-## 知识星球
+### 知识星球
 ![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/AI%E7%AE%97%E6%B3%95%E4%BA%A4%E6%B5%81%E5%9C%88.jpg)
 
 
