@@ -2,16 +2,6 @@
 
 本项目分享搜索、推荐、广告、用增等工业界实践文章，了解当前公司级实战方案
 
-除此以外，我会分享一些不错的技术文章
-
-这些内容对你了解当前行业、求职面试非常有帮助。
-
-- [搜广推优质博主文章](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB%E6%96%87%E7%AB%A0.md)
-
-- [搜广推算法系列串讲](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B8%B2%E8%AE%B2.md)
-
-如有侵权，请联系我。
-
 #### 微信公众号：机器学习社区
 
 一个专注于分享大模型、算法、学术论文、面试与实践的公众号，关注公众号：机器学习社区，与我们一起成长。
@@ -448,4 +438,14 @@
 | 搜狗         | [回顾·搜狗信息流推荐算法交流](http://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247485411&idx=1&sn=3ac29da8b7a81869bd33679531e2cfe3&chksm=fbd4b58fcca33c998652a1e1a84b4dee7b825df919e1c68702938ee24728121617ac30f85878&scene=27#wechat_redirect) | 推荐          | 2018-07-02 |
 | 美团         | [深度学习在美团点评推荐平台排序中的运用](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651746611&idx=1&sn=c9bf49b74c52ba3a091051772828fb54&chksm=bd12a87e8a6521689690ea992fe69ab4b37cbb3f77942e2900314033fdda361d9993af6698fa&mpshare=1&scene=1&srcid=0117WfBjqkaqVXB9LUCBJpti&sharer_sharetime=1673957092409&sharer_shareid=c032e8bde4d276951619cca1ff0debb1#rd) | 推荐          | 2017-07-28 |
 | 美团         | [美团点评旅游搜索召回策略的演进](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651746412&idx=1&sn=885e98dd829dabbe3858d6b2ea9f954f&chksm=bd12a9218a652037b31b32188ff61258bdae61b3ab8bc5d326ac6f9d199cb1d83260701ff3ec&mpshare=1&scene=1&srcid=0117bKvljgSQqp4W9Kz9mPdU&sharer_sharetime=1673957061139&sharer_shareid=c032e8bde4d276951619cca1ff0debb1#rd) | 召回          | 2017-06-16 |
+
+除此以外，我会分享一些不错的技术文章
+
+这些内容对你了解当前行业、求职面试非常有帮助。
+
+- [搜广推优质博主文章](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E4%BC%98%E8%B4%A8%E5%8D%9A%E4%B8%BB%E6%96%87%E7%AB%A0.md)
+
+- [搜广推算法系列串讲](https://github.com/Hello-MLClub/Algorithm-Practice-Paper/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B8%B2%E8%AE%B2.md)
+
+如有侵权，请联系我。
 
