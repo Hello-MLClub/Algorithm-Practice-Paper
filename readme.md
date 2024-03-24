@@ -16,10 +16,16 @@
 ![](https://github.com/ChenXi-code/Algorithm-Practice/blob/main/AI%E7%AE%97%E6%B3%95%E4%BA%A4%E6%B5%81%E5%9C%88.jpg)
 
 
-## 内容
+## 星球可看到如下内容
 
 | 公司         | 内容                                                         | 标签          | 时间       |
 | ------------ | ------------------------------------------------------------ | ------------- | ---------- |
+| 百度     | [百度推荐排序技术的思考与实践](https://mps.weixin.qq.com/s/JTNmYJNgoQr26fkT-Oy35g) | 排序          | 2024-1-14 |
+| 快手     | [快手内容冷启动推荐模型实践](https://mps.weixin.qq.com/s/8MKoANEAw687FoeTasngpA) | 推荐          | 2023-12-23 |
+| 小红书     | [小红书推荐系统创新性探索](https://www.bilibilia.com/video/BV1Zz4y1P7Tx/?vd_source=c505c0f93e310d111a27fa8d01b5213a) | 推荐          | 2023-11-18 |
+| 网易     | [网易云音乐推荐系统的冷启动技术](https://mps.weixin.qq.com/s/EDkoe3nxvQ_24nxC8ktd7g) | 推荐          | 2023-10-25 |
+| 百度     | [百度视频推荐跨域多目标预估与融合的实践和思考](https://mps.weixin.qq.com/s/YXPmZn3ujbBavFsmnf5Vzw) | 推荐          | 2023-08-11 |
+| 华为     | [多任务和多场景在华为推荐系统中的应用](https://mps.weixin.qq.com/s/pnEZ7jihOZ3MiYQuyyIIkA) | 推荐          | 2023-07-21 |
 | 微博     | [微博推荐实时大模型的技术演进](https://mps.weixin.qq.com/s/wRi0YJLpru5M1My0H2Ww0w) | 推荐          | 2023-05-05 |
 | 微视     | [因果推断在微视激励和供需场景的应用](https://mps.weixin.qq.com/s/9DvL68t3i60USaxarOl_9w) | 因果推断          | 2023-05-05 |
 | 阿里巴巴     | [因果推荐技术在营销和可解释性上的应用](https://mps.weixin.qq.com/s/M9RSzYiDvJ8L2Ux2VmFFRw) | 因果推断          | 2023-05-05 |
