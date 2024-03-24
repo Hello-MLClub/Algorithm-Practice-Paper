@@ -20,6 +20,8 @@
 
 | 公司         | 内容                                                         | 标签          | 时间       |
 | ------------ | ------------------------------------------------------------ | ------------- | ---------- |
+| 美团    | [内容搜索算法优化的探索与实践](https://www.bilibilia.com/video/BV1Yb4y137a3/) | 搜索          | 2024-3-12 |
+| 得物     | [得物粗排优化探讨](https://mps.weixin.qq.com/s/JX8adK0y-AtsoRRxx4734Q) | 粗排          | 2024-2-26 |
 | 百度     | [百度推荐排序技术的思考与实践](https://mps.weixin.qq.com/s/JTNmYJNgoQr26fkT-Oy35g) | 排序          | 2024-1-14 |
 | 快手     | [快手内容冷启动推荐模型实践](https://mps.weixin.qq.com/s/8MKoANEAw687FoeTasngpA) | 推荐          | 2023-12-23 |
 | 小红书     | [小红书推荐系统创新性探索](https://www.bilibilia.com/video/BV1Zz4y1P7Tx/?vd_source=c505c0f93e310d111a27fa8d01b5213a) | 推荐          | 2023-11-18 |
